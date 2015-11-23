@@ -245,7 +245,7 @@ Recommended for: Everyone
 [Video of talk](https://www.youtube.com/watch?v=7qWZ5w5v7Eg)
 
 ### Keynote and Q&A: Matz
-#### Yukihiro Matsumoto [@DrJeffNorris](https://twitter.com/yukihiro_matz)
+#### Yukihiro Matsumoto [@yukihiro_matz](https://twitter.com/yukihiro_matz)
 
 Tags: Ruby 2.3, Ruby 3, Funny
 Recommended for: Rubyist
