@@ -1,7 +1,7 @@
 # RubyConf 2015 - San Antonio
 
 This is covers the talks I attended. Since all these talks will be published on
-[ConFreaks] in the upcoming week, I won't go into a ton of detail on each talk.
+ConFreaks in the upcoming week, I won't go into a ton of detail on each talk.
 Instead, I hope to provide the reader with enough information for them to make
 decision on whether or not they should watch the talk on ConFreaks. Once the videos
 are released I plan to update each talk with a link to the associated video. If
@@ -35,7 +35,7 @@ Recommend for: Developers
 Justin explains some common pains of testing including: slow tests suites,
 failures in production despite test coverage, testing large classes, and large
 test setups. He shares approaches to mitigate these pains on existing projects and
-ways to avoid them altogether on new projects. Also discusses the [Given] gem.
+ways to avoid them altogether on new projects. Also discusses the Given gem.
 
 
 ### Inside Ruby's VM: The TMI Edition.
@@ -71,7 +71,7 @@ Recommended for: Developers
 
 Mat provides a checklist for gem authors.
 1) Provide a small set of commands to get started in the README
-2) Long READMEs are great, see [Sinatra's]
+2) Long READMEs are great, see Sinatra's
 3) Document your code with YARD
 4) Use semantic versioning, try to avoid breaking changes
 5) Pick the right level of abstraction for your public API
@@ -134,7 +134,7 @@ enable it.
 
 
 ### Working Compassionately with Legacy Code
-#### [Amar Shah](
+#### [Amar Shah](https://twitter.com/amarshahism)
 
 [Video of talk](https://www.youtube.com/watch?v=JC4mS7sYQlU&list=PLlCa6FFUimCWanyRj0ilIeF2yt4FEHucf&index=2)
 
